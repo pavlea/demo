@@ -1,7 +1,7 @@
 {
   "explore": [
     {
-      "image": "http://lorempixel.com/400/200/city/",
+      "image": "https://lorempixel.com/400/200/city/",
       "price": "200000",
       "bedrooms": 2,
       "baths": 2,
@@ -17,7 +17,7 @@
       }
     },
     {
-      "image": "http://lorempixel.com/400/200/city/",
+      "image": "https://lorempixel.com/400/200/city/",
       "price": "350000",
       "bedrooms": 3,
       "baths": 2,
