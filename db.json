@@ -1,7 +1,7 @@
 {
   "explore": [
     {
-      "image": "https://lorempixel.com/400/200/city/",
+      "image": "https://placeimg.com/640/480/arch",
       "price": "200000",
       "bedrooms": 2,
       "baths": 2,
@@ -10,14 +10,14 @@
       "city": "Split",
       "cityCode": 21000,
       "country": "Croatia",
-      "isFavorite": true,
+      "isFavorite": false,
       "location": {
-        "longitude": 16.440193,
-        "latitude": 43.508133
+        "longitude": 16.44019,
+        "latitude": 43.50813
       }
     },
     {
-      "image": "https://lorempixel.com/400/200/city/",
+      "image": "https://placeimg.com/640/480/arch",
       "price": "350000",
       "bedrooms": 3,
       "baths": 2,
@@ -28,9 +28,91 @@
       "country": "Croatia",
       "isFavorite": true,
       "location": {
-        "longitude": 15.966568,
-        "latitude": 45.815399
+        "longitude": 15.96656,
+        "latitude": 45.81539
       }
+    },
+    {
+      "image": "https://placeimg.com/640/480/arch",
+      "price": "1500000",
+      "bedrooms": 4,
+      "baths": 5,
+      "size": 1000,
+      "address": "Schlosserove Stube 2",
+      "city": "Zagreb",
+      "cityCode": 10000,
+      "country": "Croatia",
+      "isFavorite": true,
+      "location": {
+        "longitude": 15.98517,
+        "latitude": 45.81543
+      }
+    },
+    {
+      "image": "https://placeimg.com/640/480/arch",
+      "price": "10000",
+      "bedrooms": 1,
+      "baths": 1,
+      "size": 100,
+      "address": "Jakusevac 29a",
+      "city": "Zagreb",
+      "cityCode": 10000,
+      "country": "Croatia",
+      "isFavorite": false,
+      "location": {
+        "longitude": 16.11639,
+        "latitude": 45.83111
+      }
+    }
+  ],
+  "saves": [
+    {
+      "image": "https://placeimg.com/640/480/arch",
+      "price": "350000",
+      "bedrooms": 3,
+      "baths": 2,
+      "size": 500,
+      "address": "Vinogradska 15",
+      "city": "Zagreb",
+      "cityCode": 10000,
+      "country": "Croatia",
+      "isFavorite": true,
+      "location": {
+        "longitude": 15.96656,
+        "latitude": 45.81539
+      }
+    },
+    {
+      "image": "https://placeimg.com/640/480/arch",
+      "price": "1500000",
+      "bedrooms": 4,
+      "baths": 5,
+      "size": 1000,
+      "address": "Schlosserove Stube 2",
+      "city": "Zagreb",
+      "cityCode": 10000,
+      "country": "Croatia",
+      "isFavorite": true,
+      "location": {
+        "longitude": 15.98517,
+        "latitude": 45.81543
+      }
+    }
+  ],
+  "notifications": [
+    {
+      "image": "https://placeimg.com/640/480/arch",
+      "name": "New home in Split",
+      "price": "2000000",
+      "bedrooms": 2,
+      "baths": 2
+    },
+    {
+      "image": "https://placeimg.com/640/480/arch",
+      "name": "New home in Zagreb",
+      "price": "10000",
+      "bedrooms": 1,
+      "baths": 1
     }
   ]
 }
