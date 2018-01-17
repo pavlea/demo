@@ -1,7 +1,7 @@
 {
   "explore": [
     {
-      "image": "https://placeimg.com/400/200/arch",
+      "image": "https://picsum.photos/200/300/?image=163",
       "price": "200000",
       "bedrooms": 2,
       "baths": 2,
@@ -17,7 +17,7 @@
       }
     },
     {
-      "image": "https://placeimg.com/400/200/arch",
+      "image": "https://picsum.photos/200/300/?image=164",
       "price": "350000",
       "bedrooms": 3,
       "baths": 2,
@@ -33,7 +33,7 @@
       }
     },
     {
-      "image": "https://placeimg.com/400/200/arch",
+      "image": "https://picsum.photos/200/300/?image=165",
       "price": "1500000",
       "bedrooms": 4,
       "baths": 5,
@@ -49,7 +49,7 @@
       }
     },
     {
-      "image": "https://placeimg.com/400/200/arch",
+      "image": "https://picsum.photos/200/300/?image=166",
       "price": "10000",
       "bedrooms": 1,
       "baths": 1,
@@ -67,7 +67,7 @@
   ],
   "saves": [
     {
-      "image": "https://placeimg.com/400/200/arch",
+      "image": "https://picsum.photos/200/300/?image=164",
       "price": "350000",
       "bedrooms": 3,
       "baths": 2,
@@ -83,7 +83,7 @@
       }
     },
     {
-      "image": "https://placeimg.com/400/200/arch",
+      "image": "https://picsum.photos/200/300/?image=165",
       "price": "1500000",
       "bedrooms": 4,
       "baths": 5,
@@ -101,15 +101,15 @@
   ],
   "notifications": [
     {
-      "image": "https://placeimg.com/400/200/arch",
+      "image": "https://picsum.photos/200/300/?image=167",
       "name": "New home in Split",
       "price": "2000000",
       "bedrooms": 2,
       "baths": 2,
-      "time": "2018-01-17T12:00:00.404Z"
+      "time": "2018-01-17T11:00:00.404Z"
     },
     {
-      "image": "https://placeimg.com/400/200/arch",
+      "image": "https://picsum.photos/200/300/?image=168",
       "name": "New home in Zagreb",
       "price": "10000",
       "bedrooms": 1,
@@ -117,7 +117,7 @@
       "time": "2018-01-17T12:00:00.404Z"
     },
     {
-      "image": "https://placeimg.com/400/200/arch",
+      "image": "https://picsum.photos/200/300/?image=169",
       "name": "New home in Cakovec",
       "price": "100000",
       "bedrooms": 3,
