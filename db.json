@@ -131,8 +131,9 @@
       "time": "2018-01-14T12:00:00.404Z"
     }
   ],
-  "apartment": {
-    "bla": {
+  "apartments": [
+    {
+      "id": "GRU4W1KIFQ",
       "image": "https://picsum.photos/200/300/?image=163",
       "price": "200000",
       "bedrooms": 2,
@@ -184,7 +185,8 @@
         "phone": "00385987683621"
       }
     },
-    "Q7DESM7B61": {
+    {
+      "id": "Q7DESM7B61",
       "image": "https://picsum.photos/200/300/?image=164",
       "price": "350000",
       "bedrooms": 3,
@@ -236,7 +238,8 @@
         "phone": "00385987683621"
       }
     },
-    "X419JKW1ED": {
+    {
+      "id": "X419JKW1ED",
       "image": "https://picsum.photos/200/300/?image=165",
       "price": "1500000",
       "bedrooms": 4,
@@ -288,7 +291,8 @@
         "phone": "00385987683621"
       }
     },
-    "I2DKM0JYI7": {
+    {
+      "id": "I2DKM0JYI7",
       "image": "https://picsum.photos/200/300/?image=166",
       "price": "10000",
       "bedrooms": 1,
@@ -340,5 +344,5 @@
         "phone": "00385987683621"
       }
     }
-  }
+  ]
 }
