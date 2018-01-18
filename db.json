@@ -1,6 +1,7 @@
 {
   "explore": [
     {
+      "id": "GRU4W1KIFQ",
       "image": "https://picsum.photos/200/300/?image=163",
       "price": "200000",
       "bedrooms": 2,
@@ -17,6 +18,7 @@
       }
     },
     {
+      "id": "Q7DESM7B61",
       "image": "https://picsum.photos/200/300/?image=164",
       "price": "350000",
       "bedrooms": 3,
@@ -33,6 +35,7 @@
       }
     },
     {
+      "id": "X419JKW1ED",
       "image": "https://picsum.photos/200/300/?image=165",
       "price": "1500000",
       "bedrooms": 4,
@@ -49,6 +52,7 @@
       }
     },
     {
+      "id": "I2DKM0JYI7",
       "image": "https://picsum.photos/200/300/?image=166",
       "price": "10000",
       "bedrooms": 1,
@@ -67,6 +71,7 @@
   ],
   "saves": [
     {
+      "id": "Q7DESM7B61",
       "image": "https://picsum.photos/200/300/?image=164",
       "price": "350000",
       "bedrooms": 3,
@@ -83,6 +88,7 @@
       }
     },
     {
+      "id": "X419JKW1ED",
       "image": "https://picsum.photos/200/300/?image=165",
       "price": "1500000",
       "bedrooms": 4,
@@ -124,5 +130,215 @@
       "baths": 3,
       "time": "2018-01-14T12:00:00.404Z"
     }
-  ]
+  ],
+  "apartment": {
+    "GRU4W1KIFQ": {
+      "image": "https://picsum.photos/200/300/?image=163",
+      "price": "200000",
+      "bedrooms": 2,
+      "baths": 2,
+      "size": 843,
+      "address": "Rudjera Boskovica 7",
+      "city": "Split",
+      "cityCode": 21000,
+      "country": "Croatia",
+      "isFavorite": false,
+      "location": {
+        "longitude": 16.44019,
+        "latitude": 43.50813
+      },
+      "description": "Brand new apartment, completely renovated in 2012 and tastefully furnished, with attention to details, modern colours, designer lighting and high quality accessories. Located in the centre of Trastevere, perfect for those looking for a functional and high standard accommodation.",
+      "feature": {
+        "status": "For sale",
+        "price": "200000",
+        "pricePerSqm": "237,25",
+        "bedrooms": 2,
+        "baths": 2,
+        "size": 843,
+        "lotSize": 10117.1,
+        "builtIn": "1961",
+        "propertyType": "Condo",
+        "neighborhood": "Brda",
+        "timeAdded": "2018-01-14T12:00:00.404Z"
+      },
+      "taxes": {
+        "taxAmount": 5052,
+        "land": 21325,
+        "improvements": 29593
+      },
+      "publicRecords": {
+        "county": "Splitsko Dalmatinska",
+        "lotSize": 10117.1,
+        "builtIn": "1961"
+      },
+      "broker": {
+        "firstName": "Keller",
+        "lastName": "Williams",
+        "city": "Split",
+        "phone": "00385987654321"
+      },
+      "agent": {
+        "firstName": "Raymond",
+        "lastName": "Reis",
+        "city": "Nova Gradiska",
+        "phone": "00385987683621"
+      }
+    },
+    "Q7DESM7B61": {
+      "image": "https://picsum.photos/200/300/?image=164",
+      "price": "350000",
+      "bedrooms": 3,
+      "baths": 2,
+      "size": 500,
+      "address": "Vinogradska 15",
+      "city": "Zagreb",
+      "cityCode": 10000,
+      "country": "Croatia",
+      "isFavorite": true,
+      "location": {
+        "longitude": 15.96656,
+        "latitude": 45.81539
+      },
+      "description": "Brand new apartment, completely renovated in 2012 and tastefully furnished, with attention to details, modern colours, designer lighting and high quality accessories. Located in the centre of Trastevere, perfect for those looking for a functional and high standard accommodation.",
+      "feature": {
+        "status": "For sale",
+        "price": "200000",
+        "pricePerSqm": "237,25",
+        "bedrooms": 2,
+        "baths": 2,
+        "size": 843,
+        "lotSize": 10117.1,
+        "builtIn": "1961",
+        "propertyType": "Condo",
+        "neighborhood": "Brda",
+        "timeAdded": "2018-01-14T12:00:00.404Z"
+      },
+      "taxes": {
+        "taxAmount": 5052,
+        "land": 21325,
+        "improvements": 29593
+      },
+      "publicRecords": {
+        "county": "Splitsko Dalmatinska",
+        "lotSize": 10117.1,
+        "builtIn": "1961"
+      },
+      "broker": {
+        "firstName": "Keller",
+        "lastName": "Williams",
+        "city": "Split",
+        "phone": "00385987654321"
+      },
+      "agent": {
+        "firstName": "Raymond",
+        "lastName": "Reis",
+        "city": "Nova Gradiska",
+        "phone": "00385987683621"
+      }
+    },
+    "X419JKW1ED": {
+      "image": "https://picsum.photos/200/300/?image=165",
+      "price": "1500000",
+      "bedrooms": 4,
+      "baths": 5,
+      "size": 1000,
+      "address": "Schlosserove Stube 2",
+      "city": "Zagreb",
+      "cityCode": 10000,
+      "country": "Croatia",
+      "isFavorite": true,
+      "location": {
+        "longitude": 15.98517,
+        "latitude": 45.81543
+      },
+      "description": "Brand new apartment, completely renovated in 2012 and tastefully furnished, with attention to details, modern colours, designer lighting and high quality accessories. Located in the centre of Trastevere, perfect for those looking for a functional and high standard accommodation.",
+      "feature": {
+        "status": "For sale",
+        "price": "200000",
+        "pricePerSqm": "237,25",
+        "bedrooms": 2,
+        "baths": 2,
+        "size": 843,
+        "lotSize": 10117.1,
+        "builtIn": "1961",
+        "propertyType": "Condo",
+        "neighborhood": "Brda",
+        "timeAdded": "2018-01-14T12:00:00.404Z"
+      },
+      "taxes": {
+        "taxAmount": 5052,
+        "land": 21325,
+        "improvements": 29593
+      },
+      "publicRecords": {
+        "county": "Splitsko Dalmatinska",
+        "lotSize": 10117.1,
+        "builtIn": "1961"
+      },
+      "broker": {
+        "firstName": "Keller",
+        "lastName": "Williams",
+        "city": "Split",
+        "phone": "00385987654321"
+      },
+      "agent": {
+        "firstName": "Raymond",
+        "lastName": "Reis",
+        "city": "Nova Gradiska",
+        "phone": "00385987683621"
+      }
+    },
+    "I2DKM0JYI7": {
+      "image": "https://picsum.photos/200/300/?image=166",
+      "price": "10000",
+      "bedrooms": 1,
+      "baths": 1,
+      "size": 100,
+      "address": "Jakusevac 29a",
+      "city": "Zagreb",
+      "cityCode": 10000,
+      "country": "Croatia",
+      "isFavorite": false,
+      "location": {
+        "longitude": 16.11639,
+        "latitude": 45.83111
+      },
+      "description": "Brand new apartment, completely renovated in 2012 and tastefully furnished, with attention to details, modern colours, designer lighting and high quality accessories. Located in the centre of Trastevere, perfect for those looking for a functional and high standard accommodation.",
+      "feature": {
+        "status": "For sale",
+        "price": "200000",
+        "pricePerSqm": "237,25",
+        "bedrooms": 2,
+        "baths": 2,
+        "size": 843,
+        "lotSize": 10117.1,
+        "builtIn": "1961",
+        "propertyType": "Condo",
+        "neighborhood": "Brda",
+        "timeAdded": "2018-01-14T12:00:00.404Z"
+      },
+      "taxes": {
+        "taxAmount": 5052,
+        "land": 21325,
+        "improvements": 29593
+      },
+      "publicRecords": {
+        "county": "Splitsko Dalmatinska",
+        "lotSize": 10117.1,
+        "builtIn": "1961"
+      },
+      "broker": {
+        "firstName": "Keller",
+        "lastName": "Williams",
+        "city": "Split",
+        "phone": "00385987654321"
+      },
+      "agent": {
+        "firstName": "Raymond",
+        "lastName": "Reis",
+        "city": "Nova Gradiska",
+        "phone": "00385987683621"
+      }
+    }
+  }
 }
