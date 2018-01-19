@@ -178,12 +178,22 @@
         "city": "Split",
         "phone": "00385987654321"
       },
-      "agent": {
-        "firstName": "Raymond",
-        "lastName": "Reis",
-        "city": "Nova Gradiska",
-        "phone": "00385987683621"
-      }
+      "agents": [
+        {
+          "avatar": "https://randomuser.me/api/portraits/men/25.jpg",
+          "firstName": "Raymond",
+          "lastName": "Reis",
+          "city": "Nova Gradiska",
+          "phone": "00385987683621"
+        },
+        {
+          "avatar": "https://randomuser.me/api/portraits/men/26.jpg",
+          "firstName": "Raymond",
+          "lastName": "Reis",
+          "city": "Nova Gradiska",
+          "phone": "00385987683621"
+        }
+      ]
     },
     {
       "id": "Q7DESM7B61",
@@ -231,12 +241,15 @@
         "city": "Split",
         "phone": "00385987654321"
       },
-      "agent": {
-        "firstName": "Raymond",
-        "lastName": "Reis",
-        "city": "Nova Gradiska",
-        "phone": "00385987683621"
-      }
+      "agents": [
+        {
+          "avatar": "https://randomuser.me/api/portraits/men/27.jpg",
+          "firstName": "Raymond",
+          "lastName": "Reis",
+          "city": "Nova Gradiska",
+          "phone": "00385987683621"
+        }
+      ]
     },
     {
       "id": "X419JKW1ED",
@@ -284,12 +297,15 @@
         "city": "Split",
         "phone": "00385987654321"
       },
-      "agent": {
-        "firstName": "Raymond",
-        "lastName": "Reis",
-        "city": "Nova Gradiska",
-        "phone": "00385987683621"
-      }
+      "agents": [
+        {
+          "avatar": "https://randomuser.me/api/portraits/men/28.jpg",
+          "firstName": "Raymond",
+          "lastName": "Reis",
+          "city": "Nova Gradiska",
+          "phone": "00385987683621"
+        }
+      ]
     },
     {
       "id": "I2DKM0JYI7",
@@ -337,12 +353,15 @@
         "city": "Split",
         "phone": "00385987654321"
       },
-      "agent": {
-        "firstName": "Raymond",
-        "lastName": "Reis",
-        "city": "Nova Gradiska",
-        "phone": "00385987683621"
-      }
+      "agents": [
+        {
+          "avatar": "https://randomuser.me/api/portraits/men/29.jpg",
+          "firstName": "Raymond",
+          "lastName": "Reis",
+          "city": "Nova Gradiska",
+          "phone": "00385987683621"
+        }
+      ]
     }
   ]
 }
