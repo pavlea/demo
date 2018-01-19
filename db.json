@@ -50,23 +50,6 @@
         "longitude": 15.98517,
         "latitude": 45.81543
       }
-    },
-    {
-      "id": "I2DKM0JYI7",
-      "image": "https://picsum.photos/200/300/?image=166",
-      "price": "10000",
-      "bedrooms": 1,
-      "baths": 1,
-      "size": 100,
-      "address": "Jakusevac 29a",
-      "city": "Zagreb",
-      "cityCode": 10000,
-      "country": "Croatia",
-      "isFavorite": false,
-      "location": {
-        "longitude": 16.11639,
-        "latitude": 45.83111
-      }
     }
   ],
   "saves": [
@@ -300,62 +283,6 @@
       "agents": [
         {
           "avatar": "https://randomuser.me/api/portraits/men/28.jpg",
-          "firstName": "Raymond",
-          "lastName": "Reis",
-          "city": "Nova Gradiska",
-          "phone": "00385987683621"
-        }
-      ]
-    },
-    {
-      "id": "I2DKM0JYI7",
-      "image": "https://picsum.photos/200/300/?image=166",
-      "price": "10000",
-      "bedrooms": 1,
-      "baths": 1,
-      "size": 100,
-      "address": "Jakusevac 29a",
-      "city": "Zagreb",
-      "cityCode": 10000,
-      "country": "Croatia",
-      "isFavorite": false,
-      "location": {
-        "longitude": 16.11639,
-        "latitude": 45.83111
-      },
-      "description": "Brand new apartment, completely renovated in 2012 and tastefully furnished, with attention to details, modern colours, designer lighting and high quality accessories. Located in the centre of Trastevere, perfect for those looking for a functional and high standard accommodation.",
-      "feature": {
-        "status": "For sale",
-        "price": "200000",
-        "pricePerSqm": "237,25",
-        "bedrooms": 2,
-        "baths": 2,
-        "size": 843,
-        "lotSize": 10117.1,
-        "builtIn": "1961",
-        "propertyType": "Condo",
-        "neighborhood": "Brda",
-        "timeAdded": "2018-01-14T12:00:00.404Z"
-      },
-      "taxes": {
-        "taxAmount": 5052,
-        "land": 21325,
-        "improvements": 29593
-      },
-      "publicRecords": {
-        "county": "Splitsko Dalmatinska",
-        "lotSize": 10117.1,
-        "builtIn": "1961"
-      },
-      "broker": {
-        "firstName": "Keller",
-        "lastName": "Williams",
-        "city": "Split",
-        "phone": "00385987654321"
-      },
-      "agents": [
-        {
-          "avatar": "https://randomuser.me/api/portraits/men/29.jpg",
           "firstName": "Raymond",
           "lastName": "Reis",
           "city": "Nova Gradiska",
