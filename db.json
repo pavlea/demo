@@ -163,6 +163,7 @@
       },
       "agents": [
         {
+          "id": "X41HDBY1ED",
           "avatar": "https://randomuser.me/api/portraits/men/25.jpg",
           "firstName": "Raymond",
           "lastName": "Reis",
@@ -170,6 +171,7 @@
           "phone": "00385987683621"
         },
         {
+          "id": "X419JHYVED",
           "avatar": "https://randomuser.me/api/portraits/men/26.jpg",
           "firstName": "Raymond",
           "lastName": "Reis",
@@ -226,6 +228,7 @@
       },
       "agents": [
         {
+          "id": "X41JCBDCED",
           "avatar": "https://randomuser.me/api/portraits/men/27.jpg",
           "firstName": "Raymond",
           "lastName": "Reis",
@@ -282,6 +285,7 @@
       },
       "agents": [
         {
+          "id": "X419JCY1ED",
           "avatar": "https://randomuser.me/api/portraits/men/28.jpg",
           "firstName": "Raymond",
           "lastName": "Reis",
